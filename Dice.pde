@@ -37,8 +37,8 @@ void draw()
 
 void mousePressed()
 {
-  redraw();
   dieSum = 0;
+  redraw();
 }
     
 
